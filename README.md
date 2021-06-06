@@ -21,4 +21,4 @@ Por medio de una serie de "if-else" se relaciona la entrada de los datos del usu
 Al tener usuario y contraseña correctos se pasa a la verificación del captcha
 Este corresponde a la operación 687 + 8 donde el resultado debe ser 695.
 
-para esto, se realiza una verificación de que el resultado ingresado sea igual == a la operación de int(operaciones) y el punúltimo dígito.
+Para esto, se realiza una verificación de que el resultado ingresado sea igual == a la operación de int(operaciones) y el punúltimo dígito.

@@ -16,6 +16,8 @@ Se evidencia que hay 3 operaciones matemáticas (operacion1, operacion2 y operac
   operacion2= ((((c**a)/(d*(e+d-c)))-(a+e)))/(a+b+c)
 
   operacion3= (d-a+e-c+b+a-b-b)
+  
+  Donde a= 5 ; b= 1 ; c = 6 ; d = 8 y e = 7
 
 Por medio de una serie de "if-else" se relaciona la entrada de los datos del usuario y que estos sean iguales == que los datos definidos de entrada. Si esto no se cumple se envía 'Error'
 

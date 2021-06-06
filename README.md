@@ -1,5 +1,6 @@
 # Reto-1-
-Solución
+Solución :
+
 Se requiere desarrollar un sistema de login que permita identificar a los usuarios que pertenecen a un curso específico y del cual conocen el código de dicho curso.
 
 A través del sistema se verifica un usuario y la contraseña, y finalmente se realiza la autenticación por medio de un captcha de seguridad.

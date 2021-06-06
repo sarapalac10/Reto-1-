@@ -10,6 +10,12 @@ Para ejecutar el programa se conoce el código del curso (51687) y la contraseñ
 
 Se evidencia que hay 3 operaciones matemáticas (operacion1, operacion2 y operacion3) en las cuales se usan las cifras del código de grupo (51687), el objetivo es que todas las operaciones tengan como resultado la penúltima cifra (8)
 
+https://github.com/sarapalac10/Reto-1-/blob/17239019340590d087f32ac7a4653d51ea2c735b/reto1.py#L15
+
+https://github.com/sarapalac10/Reto-1-/blob/17239019340590d087f32ac7a4653d51ea2c735b/reto1.py#L18
+
+https://github.com/sarapalac10/Reto-1-/blob/17239019340590d087f32ac7a4653d51ea2c735b/reto1.py#L21
+
 Por medio de una serie de "if-else" se relaciona la entrada de los datos del usuario y que estos sean iguales == que los datos definidos de entrada. Si esto no se cumple se envía 'Error'
 
 Al tener usuario y contraseña correctos se pasa a la verificación del captcha
